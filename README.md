@@ -14,12 +14,15 @@
 
 ## What You'll Find Here
 This repository houses my explorations, projects, and experiments related to the fusion of Geomatics Engineering, GIS, and my passion areas. I use various tools and languages, including:
-- 🐍 Python
-- 📊 R
-- 🌐 JavaScript
+-  Python
+-  R
+-  JavaScript
+- Google Earth Engine 
 
-i love AI, Talk of chatGPT and other LLMs
+i love AI, Talk of chatGPT, Poe,Websim.ai,Claude
 <!---
 PrinceAlwish/PrinceAlwish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+AmeisenLAB
 --->
