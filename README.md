@@ -14,7 +14,8 @@ This repository houses my explorations, projects, and experiments related to the
 -  Python
 -  HTML, CSS
 -  JavaScript
-- Google Earth Engine 
+- Google Earth Engine
+- COLAB
 
 i love AI, Talk of chatGPT, Poe,Websim.ai,Claude
 <!---
