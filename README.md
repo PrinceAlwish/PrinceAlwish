@@ -20,7 +20,10 @@ This repository houses my explorations, projects, and experiments related to the
 - Google Earth Engine
 - COLAB
 
-i love AI, Talk of chatGPT, Poe,Websim.ai,Claude, NotebookLM 
+i love AI, An AI nerd... 
+<!--- 
+Talk of chatGPT, Poe,Websim.ai,Claude, NotebookLM 
+--->
 <!---
 PrinceAlwish/PrinceAlwish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
