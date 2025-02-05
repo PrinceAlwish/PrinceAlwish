@@ -8,6 +8,9 @@
 ### Areas of Passion
 - 🔒 Crime & Security
 - 🚀 Space / Astronomy
+- 🏡 Urban Planning house  
+- 🛰 Digital Image Processing
+- ⛮ Renewable Energy  
 
 ## What You'll Find Here
 This repository houses my explorations, projects, and experiments related to the fusion of Geomatics Engineering, GIS, and my passion areas. I use various tools and languages, including:
