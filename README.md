@@ -8,7 +8,7 @@
 ### Areas of Passion
 - 🔒 Crime & Security
 - 🚀 Space / Astronomy
-- 🏡 Urban Planning house  
+- 🏡 Urban Planning   
 - 🛰 Digital Image Processing
 - ⛮ Renewable Energy  
 
