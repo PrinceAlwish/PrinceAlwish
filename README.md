@@ -1,9 +1,9 @@
-# Geomatics Engineering and GIS Project
+# Geomatics Engineering, GIS Project and Life Concepts
 
 🌍 Welcome to my repository!
 
 ## About Me
-👋 Hey there! I'm Isaiah Wanyana, a Geomatics Engineering and GIS student at JKUAT. My passion lies in exploring the intersections between technology and various aspects of our world. Here are the key areas that truly drive my interest:
+👋 Hey there! I'm Isaiah Wanyana, an alumnus of JKUAT. My passion lies in exploring the intersections between technology and various aspects of our world. Here are the key areas that truly drive my interest:
 
 ### Areas of Passion
 - 🔒 Crime & Security
