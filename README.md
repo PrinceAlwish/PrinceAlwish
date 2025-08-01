@@ -3,7 +3,7 @@
 🌍 Welcome to my repository!
 
 ## About Me
-👋 Hey there! I'm Isaiah Wanyana, an alumnus of JKUAT. My passion lies in exploring the intersections between technology and various aspects of our world. Here are the key areas that truly drive my interest:
+👋 Hey there! I'm Isaiah Wanyama, an alumnus of JKUAT. My passion lies in exploring the intersections between technology and various aspects of our world. Here are the key areas that truly drive my interest:
 
 ### Areas of Passion
 - 🔒 Crime & Security
